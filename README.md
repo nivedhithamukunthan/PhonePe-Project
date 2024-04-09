@@ -1,4 +1,4 @@
-# Phonepe Pulse Data Visualization and Exploration:
+# Nivedhitha Mukunthan/Phonepe Pulse Data Visualization and Exploration
 A User-Friendly Tool Using Streamlit and Plotly
 Extract data from the Phonepe pulse Github repository through scripting and
 clone it..Transform the data into a suitable format and perform any necessary cleaning
